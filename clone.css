@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            css colors
+        </title>
+        <style>
+            .color{
+                color: aqua;
+            }
+        </style>
+    </head>
+    <body>
+        <p class="color">this is pavan</p>
+    </body>
+</html>
